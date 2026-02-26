@@ -1,0 +1,132 @@
+[theme.options]
+boot_animation = false
+boot_mode = "normal"
+boot_max_loops = 1
+boot_total_duration = 1
+screen_mode = "screen_saver"
+screen_saver = "show_logo"
+second_screen_fps = 1
+webui_fps = 1
+second_screen_webui = true
+bg_fg_select = "manu"
+bg_mode = "normal"
+fg_mode = "normal"
+fg_image = ""
+bg_color = "white"
+bg_image = ""
+bg_anim_image = ""
+font_sizes = [ 10, 8, 10, 25, 25, 9,]
+font = "DejaVuSansMono"
+font_bold = "DejaVuSansMono-Bold"
+status_font = "DejaVuSansMono"
+font_awesome = ""
+size_offset = 5
+label_spacing = 9
+label_line_spacing = 0
+cursor = "☢"
+friend_bars = "█"
+friend_no_bars = "░"
+base_text_color = [ "black",]
+main_text_color = [ "black",]
+color_mode = [ "P", "P",]
+
+[theme.dev]
+log = true
+debug = false
+
+[theme.widget.channel]
+position = [ 0, 0,]
+text_font_size = "Medium"
+label = "CH"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.aps]
+position = [ 36, 0,]
+text_font_size = "Medium"
+label = "APs"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.bluetooth]
+position = [ 115, 0,]
+text_font_size = "Medium"
+label = "BT"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.ups]
+position = [ 135, 0,]
+text_font_size = "Medium"
+label = "BAT"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.uptime]
+position = [ 185, 0,]
+text_font_size = "Medium"
+label = "UP"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.memtemp_header]
+position = [ 120, 80,]
+
+[theme.widget.memtemp_data]
+position = [ 120, 90,]
+
+[theme.widget.face]
+position = [ 0, 30,]
+color = [ 0,]
+z_axis = 0
+icon = true
+icon_color = false
+mask = true
+refine = 80
+zoom = 0.79
+image_type = "png"
+
+[theme.widget.name]
+position = [ 125, 20,]
+text_font_size = "Bold"
+color = [ 0,]
+
+[theme.widget.status]
+position = [ 125, 40,]
+text_font_size = "Small"
+wrap = true
+max_length = 18
+color = [ 0,]
+
+[theme.widget.friend_name]
+position = [ 0, 92,]
+text_font_size = "BoldSmall"
+color = [ 0,]
+
+[theme.widget.shakes]
+position = [ 0, 109,]
+text_font_size = "Medium"
+label = "PWND"
+label_font_size = "Medium"
+label_spacing = 5
+color = [ 0,]
+
+[theme.widget.mode]
+position = [ 225, 109,]
+text_font_size = "Bold"
+color = [ 0,]
+
+[theme.widget.line1]
+position = [ 0, 14, 250, 0,]
+color = [ 0,]
+width = 1
+
+[theme.widget.line2]
+position = [ 0, 108, 250, 0,]
+color = [ 0,]
+width = 1

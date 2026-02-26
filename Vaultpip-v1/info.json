@@ -1,0 +1,9 @@
+{
+  "author": "<a href='https://github.com/stratuscodelab'>Stratuscodelab</a>",
+  "version": "1.0.0",
+  "resolutions": "250x122",
+  "display": "dfrobotv1, dfrobotv2, waveshare(v1, v2,v3, v4)",
+  "plugins": ["memtemp.py", "display-password.py", "bt-ether.py", "waveshareups-c"],
+  "Description": "Fallout PIP (<a href='https://github.com/Stratuscodelab'>@Stratuscodelab</a>)",
+  "notes": "Smooth as catshit 2026"
+}

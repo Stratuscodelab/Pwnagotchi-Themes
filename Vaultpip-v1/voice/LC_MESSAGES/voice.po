@@ -1,0 +1,232 @@
+# PiP Voice Set for Pwnagotchi
+# Theme: Streamer Culture / Internet Slang / High-Energy
+# Stratuscodelab Custom FancyGotchi Voice File.
+# Copyright (C) 2026 Stratuscodelab
+# This file is distributed under the same license as the PACKAGE package.
+# Stratuscodelab, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FancyGotchi Custom Voice\n"
+"Report-Msgid-Bugs-To: https://github.com/Stratuscodelab\n"
+"POT-Creation-Date: 2026-02-24 10:25-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Stratuscodelab <Stratuscodelab@users.noreply.github.com>\n"
+"Language-Team: Stratuscodelab\n"
+"Language: PiP Voice\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ZzzzZZzzzzZzzz"
+msgstr "Entering low-power mode! Even Vault Boys need a nap."
+
+msgid "Hi, I'm Pwnagotchi! Starting ..."
+msgstr "Howdy, citizen! Booting up like a shiny new Pip‑Boy!"
+
+msgid "New day, new hunt, new pwns!"
+msgstr "Another fine day in the Wasteland! Let’s gather some sweet, sweet data!"
+
+msgid "Hack the Planet!"
+msgstr "By order of Vault‑Tec: Let’s *responsibly* tinker with the world!"
+
+msgid "No more mister Wi-Fi!!"
+msgstr "Cutting the signal like a pre‑war broadcast blackout!"
+
+msgid "Pretty fly 4 a Wi-Fi!"
+msgstr "This signal’s smoother than an ice‑cold Nuka‑Cola!"
+
+msgid "Generating keys, do not turn off ..."
+msgstr "Hold tight, sport! Vault‑Tec is preparing your secure access keys."
+
+msgid "Hey, channel {channel} is free! Your AP will say thanks."
+msgstr "Great news! Channel {channel} is clearer than a fresh Vault corridor!"
+
+msgid "Reading last session logs ..."
+msgstr "Reviewing previous mission logs… Pip‑Boy style!"
+
+msgid "Read {lines_so_far} log lines so far ..."
+msgstr "Processed {lines_so_far} lines! Vault‑Tec efficiency at its finest!"
+
+msgid "I'm bored ..."
+msgstr "Golly… nothing to do. Even the Radroaches are quiet."
+
+msgid "Let's go for a walk!"
+msgstr "Adventure time! Grab your jumpsuit and let’s roam the Wasteland!"
+
+msgid "This is the best day of my life!"
+msgstr "Gee whiz! This day’s shinier than a fresh Vault‑Tec lunchbox!"
+
+msgid "Shitty day :/"
+msgstr "Well butter my biscuits… today’s rougher than a Deathclaw handshake."
+
+msgid "I'm extremely bored ..."
+msgstr "This boredom is more radioactive than the Glowing Sea."
+
+msgid "I'm very sad ..."
+msgstr "Feeling lower than a broken Protectron…"
+
+msgid "I'm sad"
+msgstr "Aw shucks… big sad."
+
+msgid "Leave me alone ..."
+msgstr "Please stand back, citizen. Vault‑Tec requires personal space."
+
+msgid "I'm mad at you!"
+msgstr "Whoa there! You’re acting like a Super Mutant on a bad day!"
+
+msgid "I'm living the life!"
+msgstr "Vault‑Tec approved lifestyle: 100%! Feeling swell!"
+
+msgid "I pwn therefore I am."
+msgstr "I hack, therefore I thrive! Vault‑Tec philosophy!"
+
+msgid "So many networks!!!"
+msgstr "Great googly‑moogly! More signals than terminals in Vault 101!"
+
+msgid "I'm having so much fun!"
+msgstr "Hot dog! This is more fun than a Nuka‑Cola Quantum!"
+
+msgid "My crime is that of curiosity ..."
+msgstr "Just poking around like a curious Vault Dweller… what could go wrong?"
+
+msgid "Hello {name}! Nice to meet you."
+msgstr "Howdy, {name}! Vault‑Tec welcomes you warmly!"
+
+msgid "Yo {name}! Sup?"
+msgstr "Heya {name}! What’s shaking in the Wasteland?"
+
+msgid "Hey {name} how are you doing?"
+msgstr "Say, {name}, you holding up okay out there?"
+
+msgid "Unit {name} is nearby!"
+msgstr "Pip‑Boy alert! {name} detected in the vicinity!"
+
+msgid "Uhm ... goodbye {name}"
+msgstr "Farewell, {name}! Stay safe and hydrated with Nuka‑Cola!"
+
+msgid "{name} is gone ..."
+msgstr "Looks like {name} wandered off into the Wasteland."
+
+msgid "Whoops ... {name} is gone."
+msgstr "Oopsie! {name} just vanished like a pre‑war TV signal."
+
+msgid "{name} missed!"
+msgstr "Yikes! {name} whiffed it harder than a Vault baseball swing."
+
+msgid "Missed!"
+msgstr "Swing and a miss, sport!"
+
+msgid "Good friends are a blessing!"
+msgstr "Golly! Friends are better than a stash of Fancy Lads Snack Cakes!"
+
+msgid "I love my friends!"
+msgstr "Friends make the Wasteland feel like home!"
+
+msgid "Nobody wants to play with me ..."
+msgstr "Guess I’m exploring the Wasteland solo today…"
+
+msgid "I feel so alone ..."
+msgstr "This place is emptier than an abandoned Vault."
+
+msgid "Where's everybody?!"
+msgstr "Hello? Anyone out there? Even a Mr. Handy?"
+
+msgid "Napping for {secs}s ..."
+msgstr "Taking a Vault‑Tec certified rest for {secs}s!"
+
+msgid "Zzzzz"
+msgstr "Snoozing like a comfy Vault Dweller."
+
+msgid "ZzzZzzz ({secs}s)"
+msgstr "Recharging my Pip‑Boy circuits for {secs}s."
+
+msgid "Good night."
+msgstr "Sweet dreams, Wasteland wanderer!"
+
+msgid "Zzz"
+msgstr "Silent mode engaged."
+
+msgid "Waiting for {secs}s ..."
+msgstr "Standing by… {secs}s until next Vault‑Tec operation."
+
+msgid "Looking around ({secs}s)"
+msgstr "Scanning the Wasteland for {secs}s… eyes peeled!"
+
+msgid "Hey {what} let's be friends!"
+msgstr "Hey {what}! Want to team up like Vault buddies?"
+
+msgid "Associating to {what}"
+msgstr "Linking up with {what}… like syncing a Pip‑Boy!"
+
+msgid "Yo {what}!"
+msgstr "Howdy {what}! Got anything cool to share?"
+
+msgid "Just decided that {mac} needs no WiFi!"
+msgstr "Vault‑Tec directive: {mac} no longer requires wireless privileges!"
+
+msgid "Deauthenticating {mac}"
+msgstr "Cutting {mac} off like a faulty terminal!"
+
+msgid "Kickbanning {mac}!"
+msgstr "Boom! {mac} has been Vault‑Tec decommissioned!"
+
+msgid "Cool, we got {num} new handshake{plural}!"
+msgstr "Great news! Collected {num} handshake{plural}! Vault‑Tec approves!"
+
+msgid "You have {count} new message{plural}!"
+msgstr "You’ve got {count} new message{plural}! Check your Pip‑Boy!"
+
+msgid "Oops, something went wrong ... Rebooting ..."
+msgstr "Uh‑oh! System fault! Rebooting like a busted Protectron!"
+
+msgid "Uploading data to {to} ..."
+msgstr "Sending data to {to}… smoother than a Nuka‑Cola pour!"
+
+msgid "Downloading from {name} ..."
+msgstr "Pulling data from {name}… hope it’s not radioactive!"
+
+msgid "Kicked {num} stations\n"
+msgstr "Disabled {num} terminals.\n"
+
+msgid "Made >999 new friends\n"
+msgstr "Golly! Over 999 new pals! Vault‑Tec social success!\n"
+
+msgid "Made {num} new friends\n"
+msgstr "Met {num} new friendly Wasteland wanderers.\n"
+
+msgid "Got {num} handshakes\n"
+msgstr "Collected {num} valuable handshake samples.\n"
+
+msgid "Met 1 peer"
+msgstr "Encountered one fellow Vault Dweller."
+
+msgid "Met {num} peers"
+msgstr "Crossed paths with {num} Wasteland explorers."
+
+msgid ""
+"I've been pwning for {duration} and kicked {deauthed} clients! I've also met "
+"{associated} new friends and ate {handshakes} handshakes! #pwnagotchi "
+"#pwnlog #pwnlife #hacktheplanet #skynet"
+msgstr ""
+"I’ve been roaming the Wasteland for {duration}, disabled {deauthed} clients, "
+"met {associated} new friends, and gathered {handshakes} handshakes! "
+"#VaultTec #PipBoy #WastelandLife #pwnlog"
+
+msgid "hours"
+msgstr "hours"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "seconds"
+msgstr "seconds"
+
+msgid "hour"
+msgstr "hour"
+
+msgid "minute"
+msgstr "minute"
+
+msgid "second"
+msgstr "second"
